@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mode Identifier</string>
+    <string name="your_name">Your Name</string>
+    <string name="guess_mode">Guess mode</string>
+    <string name="write_your_name_and_let_me_guess_in_which_mood_you_are">Write your name and let me guess, in which mood you are.</string>
+    <string name="todo">TODO</string>
+</resources>
